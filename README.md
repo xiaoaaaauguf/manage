@@ -14,6 +14,6 @@ npm run serve
 ```
 npm run build
 ```
+### 项目预览地址
+[点此预览](http://xiaoxo.gitee.io/manage)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
